@@ -1,0 +1,51 @@
+index.html
+
+  <section class="services" id="services">
+    <h2>Mes Services</h2>
+    <ul>
+      <li><strong>Création de logo sur mesure</strong> : Un logo qui te ressemble et qui parle à tes clients.</li>
+      <li><strong>Charte graphique complète</strong> : Polices, couleurs, typographie, consignes d'utilisation.</li>
+      <li><strong>Accompagnement en communication</strong> :
+        <ul>
+          <li>Trouver des entreprises de marquage publicitaire (vêtements, objets, PLV...)</li>
+          <li>Choisir les meilleurs supports imprimés (flyers, cartes de visite...)</li>
+          <li>Conseils en communication digitale (réseaux sociaux, site internet...)</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section id="pack">
+    <h2>Pack "Identité Visuelle + Communication"</h2>
+    <p>Tu veux une offre complète et clé en main ? Je propose un pack personnalisé qui inclut :</p>
+    <ul>
+      <li>Création du logo (1 proposition principale + 2 révisions)</li>
+      <li>Charte graphique complète</li>
+      <li>Fichiers haute résolution (PDF vectoriel, PNG, JPG, formats web)</li>
+      <li>Accompagnement dans la recherche de fournisseurs de marquage publicitaire</li>
+      <li>Conseils sur les supports de communication adaptés à ton activité</li>
+    </ul>
+    <p><strong>Tarif : sur devis selon tes besoins</strong></p>
+    <p>Contacte-moi pour recevoir ton devis gratuit !</p>
+  </section>
+
+  <section id="contact">
+    <h2>Me contacter</h2>
+    <p>Tu as une idée en tête ? Une demande précise ? N’hésite pas à me contacter :</p>
+    <ul>
+      <li>Email : <a href="mailto:b.creations1522@gmail.com">b.creations1522@gmail.com</a></li>
+      <li>Téléphone : 06 50 73 51 39</li>
+      <li>Ville/Secteur : Ecommoy / Sarthe</li>
+    </ul>
+    <p>Réseaux : 
+      <a href="https://www.tiktok.com/ @bcreation1522" target="_blank">TikTok</a> | 
+      <a href="https://www.instagram.com/b.creation1522/ " target="_blank">Instagram</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 B. Créations — Tous droits réservés</p>
+  </footer>
+
+</body>
+</html>
